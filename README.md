@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Festison
+안녕하세요 Festison 이정철입니다.
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 
