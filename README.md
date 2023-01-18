@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF0000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
  안녕하세요 Festison 이정철입니다. 
 	
  언리얼 엔진및 유니티 엔진을 이용한 게임 개발에 흥미가 있습니다. 
@@ -7,8 +5,9 @@
  현재 C++, C# 언어를 배우고 있습니다.
 
 
+![Festison's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-
+# Skills
 <img src = "https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=flat&logo=unity&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src="https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=flat&logo=unreal%20engine&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 
 <!---
