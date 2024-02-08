@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Stats
-![Festison's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=ambient_gradient)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Festison&layout=compact&theme=tokyonight)
-
+<a href="https://github.com/Festison">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Festison&show_icons=true&theme=ambient_gradient_all_commits=ambient_gradient"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Festison&layout=compact&langs_count=6&theme=dark"/>
+</a>
 
 
